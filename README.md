@@ -22,6 +22,9 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1080" height="998" alt="image" src="https://github.com/user-attachments/assets/450d2773-818b-4144-99db-e7e893072a19" />
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
@@ -35,7 +38,11 @@
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
+   <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/25cbacaa-b32b-482f-a627-a69e746795cd" />
 
+
+   
+   
    **RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
@@ -45,4 +52,6 @@ a)	The current across 330Ω resistor is	A.
 b)	The current across 560Ω resistor is	A.
 
 c)	The current across 470Ω resistor is	A.
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/9ec98fe4-5769-4305-9732-4591cebe8aaa" />
+
 
